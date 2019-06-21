@@ -1,0 +1,27 @@
+﻿
+#u3041_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:89px;
+  height:89px;
+}
+#u3041 {
+  border-width:0px;
+  position:absolute;
+  left:247px;
+  top:19225px;
+  width:89px;
+  height:89px;
+  color:#999999;
+}
+#u3041_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
